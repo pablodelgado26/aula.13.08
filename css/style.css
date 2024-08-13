@@ -26,5 +26,8 @@ body{
     padding: 14px 20px;
     text-decoration: none;
     transition: background-color 0.3s ;
+}
 
+.menu-horizontal a:hover {
+    background-color: #575757;
 }
